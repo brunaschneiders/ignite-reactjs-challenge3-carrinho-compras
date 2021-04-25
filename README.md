@@ -4,7 +4,7 @@
 
 <p> 🚀 Desafio desenvolvido durante o ignite cujo objetivo principal é a criação de um hook de carrinho de compras. </p>
 
-## Features
+## Funcionalidades
 
 - [x] Adicionar um novo produto ao carrinho;
 - [x] Remover um produto do carrinho;
@@ -13,32 +13,32 @@
 - [x] Validação de estoque;
 - [x] Exibição de mensagens de erro;
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
 As seguintes tecnologias foram utilizadas na construção deste projeto:
 - [React](https://pt-br.reactjs.org/)
 - [Context API](https://pt-br.reactjs.org/docs/context.html/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 
-## Install
+## Instalação
 
 ```sh
 yarn install
 ```
 
-## Usage
+## Uso
 
 ```sh
 yarn start e yarn server
 ```
 
-## Run tests
+## Testes
 
 ```sh
 yarn test
 ```
 
-## Author
+## Autor
 
 👤 **Bruna Schneiders**
 
