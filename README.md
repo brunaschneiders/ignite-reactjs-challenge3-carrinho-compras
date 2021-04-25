@@ -68,9 +68,5 @@ $ yarn test
 * Github: [@brunaschneiders](https://github.com/brunaschneiders)
 * LinkedIn: [@bruna-schneiders](https://linkedin.com/in/bruna-schneiders)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
