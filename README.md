@@ -4,6 +4,9 @@
 
 <p> 🚀 Desafio desenvolvido durante o ignite cujo objetivo principal é a criação de um hook de carrinho de compras. </p>
 
+![](20210425_134126.gif)
+![](20210425_134150.gif)
+
 ## Funcionalidades
 
 - [x] Adicionar um novo produto ao carrinho;
