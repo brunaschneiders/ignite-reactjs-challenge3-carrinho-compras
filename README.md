@@ -56,8 +56,9 @@ $ yarn start
 
 ## Testes
 
-```sh
-yarn test
+```bash
+# Execute os testes da aplicação dentro da pasta do projeto
+$ yarn test
 ```
 
 ## Autor
