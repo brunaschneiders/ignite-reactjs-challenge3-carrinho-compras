@@ -4,19 +4,20 @@
 
 <p> 🚀 Desafio desenvolvido durante o ignite cujo objetivo principal é a criação de um hook de carrinho de compras. </p>
 
+![](20210425_134126.gif)
+![](20210425_134150.gif)
+
+
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Funcionalidades](#funcionalidades)
-   * [Tecnologias](#tecnologias)
-   * [Como executar o projeto](#como-executar-o-projeto)
-      * [Pré-Requisitos](#pre-requisitos)
-      * [Rodando a Aplicação](#rodando-a-aplicacao)
+   * [Tecnologias](#🛠-tecnologias)
+   * [Como executar o projeto](#🚀-como-executar-o-projeto)
+      * [Pré-Requisitos](#pré-requisitos)
+      * [Rodando a Aplicação](#🧭rodando-a-aplicação-web )
    * [Testes](#testes)
 <!--te-->
-
-![](20210425_134126.gif)
-![](20210425_134150.gif)
 
 ## Funcionalidades
 
