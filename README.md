@@ -23,16 +23,35 @@ As seguintes tecnologias foram utilizadas na construção deste projeto:
 - [Context API](https://pt-br.reactjs.org/docs/context.html/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 
-## Instalação
+## 🚀 Como executar o projeto
 
-```sh
-yarn install
-```
+💡A aplicação precisa que o servidor esteja sendo executado para funcionar.
 
-## Uso
+### Pré-requisitos
 
-```sh
-yarn start e yarn server
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js][nodejs]. 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+
+### 🧭 Rodando a aplicação web 
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunaschneiders/ignite-reactjs-challenge3-carrinho-compras.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd ignite-reactjs-challenge3-carrinho-compras
+
+# Instale as dependências
+$ yarn install
+
+# Execute o servidor da aplicação em modo de desenvolvimento
+$ yarn server
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
 ## Testes
